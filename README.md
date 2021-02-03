@@ -13,7 +13,7 @@
     - 웹캠을 이용한 안면에서 눈검출 후 눈관상 판별 (길상, 평상, 흉상)   
    
    
-:tangerine: 아이돌봄 로봇 (Child care robot)
+:tangerine: 아이 돌봄 로봇 (Child care robot)
 - 기간 : 2020.10.28-2020.11.25
 - 인원 : 5명
 - 개발환경 : 
