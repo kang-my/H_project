@@ -9,5 +9,6 @@
 - 기간 : 2020.12.18-2020.12.31
 - 인원 : 3명
 - 사용기술 : Python, Opencv, Yolo(DarkNet), google Colaboratory(GUI)
-- 내용 : 사물인식 머신러닝 알고리즘 검증/분석
- -- 
++ 내용 : 사물인식 머신러닝 알고리즘 검증/분석
+    - Colaboratory의 GUI를 활용하여 Yolo 학습.
+    - 웹캠을 이용한 안면에서 눈검출 후 눈관상 판별 (길상, 평상, 흉상)
