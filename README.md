@@ -10,7 +10,8 @@
 - 개발환경 : Python, Opencv, Yolo(DarkNet), google Colaboratory(GUI)
 - 내용 : 사물인식 머신러닝 알고리즘 검증/분석
     - Colaboratory의 GUI를 활용하여 Yolo 학습.
-    - 웹캠을 이용한 안면에서 눈검출 후 눈관상 판별 (길상, 평상, 흉상)  
+    - 웹캠을 이용한 안면에서 눈검출 후 눈관상 판별 (길상, 평상, 흉상)   
+   
    
 :tangerine: 아이돌봄 로봇 (Child care robot)
 - 기간 : 2020.10.28-2020.11.25
