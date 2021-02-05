@@ -7,6 +7,7 @@
 - 기간 : 2020.12.18-2020.12.31
 - 인원 : 3명
 - 역할 : 자료 수집, yolo training, 모델 테스트, ppt 제작
+- 링크 [YOLO](https://github.com/kang-my/H_project/tree/main/04%20yolo)
 <br></br>
 ### :tangerine: 아이 돌봄 로봇 (Child care robot control with App)
 - 기간 : 2020.10.28-2020.11.25  
