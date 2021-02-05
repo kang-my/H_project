@@ -2,6 +2,12 @@
 ![yolodemoimg](https://user-images.githubusercontent.com/78400692/106859852-f8689400-6706-11eb-9190-dd46a05e2630.png)
 
 
+### 세부 내용
+ - 사용언어: Python 3.6.9
+ - 개발환경: Google Colaboratory(GUI) (OpenCV 4.1.2, Yolo-v3 darknet)
+            Visual code studio(1.52.1) (numpy 1.19.4)
+ - 사용부품: Logitec HD Webcam
+
 ### 기능  
 - 사람의 얼굴에서 눈을 인식하여 해당하는 관상을 나타냄
 
