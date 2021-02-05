@@ -6,11 +6,7 @@
 ### :tangerine: YOLO학습을 통한 눈 관상 판별 (eye physiognomy distinction with yolo-v3)
 - 기간 : 2020.12.18-2020.12.31
 - 인원 : 3명
-- 개발환경 : Python, Opencv, Yolo(DarkNet), google Colaboratory(GUI) / webcam
-- 내용 : 사물인식 머신러닝 알고리즘 검증/분석
-    - Colaboratory의 GUI를 활용하여 Yolo 학습.
-    - 웹캠을 이용한 안면에서 눈검출 후 눈관상 판별 (길상, 평상, 흉상)
-    
+- 역할 : 자료 수집, yolo training, 모델 테스트, ppt 제작
 
 ### :tangerine: 아이 돌봄 로봇 (Child care robot control with App)
 - 기간 : 2020.10.28-2020.11.25  
@@ -19,3 +15,14 @@
 - 내용 : 스마트 로봇 및 어플 개발  
     - wowwee로봇의 뼈대를 바탕으로 모터 제어  
     - 홈CCTV모드, 놀이모드, 움직임 모드 3가지를 제어  
+
+
+</br>
+### curriculum
+- H/W제어를 위한 C++ 프로그래밍
+- PYTHON + 빅데이터
+- 리눅스 프로그래밍
+- 라즈베리파이
+- 안드로이드 어플리케이션
+- 딥러닝(Tensorflow)
+- MongoDB
