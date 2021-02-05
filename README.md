@@ -16,7 +16,7 @@
     - wowwee로봇의 뼈대를 바탕으로 모터 제어  
     - 홈CCTV모드, 놀이모드, 움직임 모드 3가지를 제어  
 
-### :pencil2: curriculum
+### :pencil2: Curriculum
 - H/W제어를 위한 C++ 프로그래밍
 - PYTHON + 빅데이터
 - 리눅스 프로그래밍
