@@ -13,6 +13,7 @@
 - 기간 : 2020.10.28-2020.11.25  
 - 인원 : 5명  
 - 역할 : Webcam 제어, ppt 
+- 링크 : [CC robot](https://github.com/kang-my/H_project/tree/main/03%20cc_robot)
 <br></br>
 <br></br>
 ### :pencil2: Curriculum
