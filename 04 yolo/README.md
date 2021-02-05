@@ -3,7 +3,7 @@
 
 
 ### 세부 내용
- - 사용언어: Python 3.6.9
+ - 사용언어: Python [3.6.9]
  - 개발환경: Google Colaboratory(GUI) (OpenCV 4.1.2, Yolo-v3 darknet)
             Visual code studio(1.52.1) (numpy 1.19.4)
  - 사용부품: Logitec HD Webcam
