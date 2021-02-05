@@ -6,5 +6,5 @@
 - 개발환경: Android Studio 4.1, firebase, Autodeskfusion360, github
 - 사용부품: 라즈베리파이3, IR sensor, DC motor, Webcam, blooth speaker
 
-### 
+### 기능 순서도
 ![캡처](https://user-images.githubusercontent.com/78400692/107006589-b3ab2e80-67d4-11eb-9f4f-538606aea2db.JPG)
