@@ -12,10 +12,7 @@
 ### :tangerine: 아이 돌봄 로봇 (Child care robot control with App)
 - 기간 : 2020.10.28-2020.11.25  
 - 인원 : 5명  
-- 개발환경 : Python, Android Studio, Java, Firebase, Autodesk fuslon360 / Raspberry pi3, webcam, DC motor, IR senser, bluetooth speaker  
-- 내용 : 스마트 로봇 및 어플 개발  
-    - wowwee로봇의 뼈대를 바탕으로 모터 제어  
-    - 홈CCTV모드, 놀이모드, 움직임 모드 3가지를 제어  
+- 역할 : Webcam 제어, ppt 
 <br></br>
 <br></br>
 ### :pencil2: Curriculum
