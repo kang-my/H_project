@@ -29,4 +29,6 @@
 - 라즈베리파이
 - 안드로이드 어플리케이션
 - 딥러닝(Tensorflow)
+- Python, C++ OpenCV
+- 기업특강 : 공공사업 부문 프로젝트 관리 실무
 - MongoDB
