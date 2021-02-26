@@ -15,6 +15,12 @@
 - 역할 : Webcam 제어, ppt 
 - 링크 : [CC robot](https://github.com/kang-my/H_project/tree/main/03%20cc_robot)
 <br></br>
+### :tangerine: Kaggle competion (RANZCR CLiP - Catheter and Line Position Challenge)
+- 기간 : 2020.2.08-2020.2.25
+- 인원 : 5명
+- 역할 : 알고리즘 분석, mongoDB, 발표
+- 링크 : 
+<br></br>
 <br></br>
 ### :pencil2: Curriculum
 - H/W제어를 위한 C++ 프로그래밍
