@@ -19,7 +19,7 @@
 - 기간 : 2020.2.08-2020.2.25
 - 인원 : 5명
 - 역할 : 알고리즘 분석, mongoDB, 발표
-- 링크 : 
+- 링크 : [Catheter](https://github.com/kang-my/H_project/tree/main/05%20catheter%20line%20-%20kaggle)
 <br></br>
 <br></br>
 ### :pencil2: Curriculum
